@@ -132,7 +132,7 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('/menu-tile.jpg') no-repeat;
+  background: url('../menu-tile.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
@@ -242,7 +242,7 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../restaurant-logo_medium.png') no-repeat;
+    background: url('/restaurant-logo_medium.png') no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
